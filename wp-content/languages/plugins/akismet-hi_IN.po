@@ -1,0 +1,223 @@
+# Translation of Plugins - Akismet Anti-Spam - Stable (latest release) in Hindi
+# This file is distributed under the same license as the Plugins - Akismet Anti-Spam - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-07 23:01:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Plugins - Akismet Anti-Spam - Stable (latest release)\n"
+
+#: views/config.php:22
+msgid "Statistics"
+msgstr "आँकड़े"
+
+#: views/config.php:135
+msgid "Note:"
+msgstr "नोट:"
+
+#: views/start.php:75
+msgid "Activate Akismet"
+msgstr "अकिस्मेट सक्रिय करें"
+
+#: views/start.php:77
+msgid "Get your API key"
+msgstr "अपना एपीआई कुंजी प्राप्त करें"
+
+#: views/start.php:41
+msgid "Reactivate Akismet"
+msgstr "अकिस्मेट पुनः सक्रिय करें"
+
+#: views/config.php:208
+msgid "Cancelled"
+msgstr "रद्द किया"
+
+#: views/config.php:216
+msgid "Active"
+msgstr "सक्रिय"
+
+#: views/notice.php:74
+msgid "There is a problem with your API key."
+msgstr "आपके कुंजी के साथ एक समस्या है."
+
+#: views/config.php:210
+msgid "Suspended"
+msgstr "निलंबित"
+
+#: views/config.php:214
+msgid "No Subscription Found"
+msgstr "को भी सदस्यता नहीं मिला "
+
+#: class.akismet-admin.php:240 views/config.php:105
+msgid "Comments"
+msgstr "टिप्पणियां"
+
+#: views/notice.php:17
+msgid "Akismet has detected a problem."
+msgstr "अकिस्मेट एक समस्या का पता लगाया है."
+
+#: views/notice.php:25
+msgid "Akismet Error Code: %s"
+msgstr "अकिस्मेट त्रुटि कोड: %s"
+
+#. translators: the placeholder is a clickable URL that leads to more
+#. information regarding an error code.
+#: views/notice.php:30
+msgid "For more information: %s"
+msgstr "अधिक जानकारी के लिए: %s"
+
+#: views/config.php:176
+msgid "Save Changes"
+msgstr "परिवर्तन सहेजें"
+
+#: class.akismet-admin.php:502
+msgid "Awaiting spam check"
+msgstr "स्पैम की जांच प्रतीक्षा में"
+
+#: class.akismet-widget.php:12
+msgid "Akismet Widget"
+msgstr "अकिस्मेट विजेट"
+
+#: class.akismet-widget.php:102
+msgid "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
+msgid_plural "<strong class=\"count\">%1$s spam</strong> blocked by <strong>Akismet</strong>"
+msgstr[0] "<strong class=\"count\">%1$s स्पैम</strong><strong>अकिस्मत</strong>के द्वारा अवरोधित किया गया"
+msgstr[1] "<strong class=\"count\">%1$s स्पैम</strong><strong>अकिस्मत</strong>के द्वारा अवरोधित किया गया"
+
+#: class.akismet-admin.php:104 class.akismet-admin.php:236
+#: class.akismet-admin.php:655 views/config.php:60
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: class.akismet-admin.php:526
+msgid "History"
+msgstr "कालक्रम"
+
+#: class.akismet-admin.php:340
+msgctxt "comments"
+msgid "Spam"
+msgstr "स्पैम"
+
+#: class.akismet-admin.php:549
+msgid "%s approved"
+msgid_plural "%s approved"
+msgstr[0] "%s अनुमोदित किया गया"
+msgstr[1] "%s अनुमोदित किया गया"
+
+#: class.akismet-admin.php:85
+msgid "Akismet"
+msgstr "अकिस्मेट"
+
+#: class.akismet-widget.php:74
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: class.akismet-admin.php:214
+msgid "Akismet Stats"
+msgstr "अकिस्मेट के आँकड़े"
+
+#: class.akismet-admin.php:643
+msgid "%s ago"
+msgstr "%s पूर्व"
+
+#: class.akismet-admin.php:145
+msgid "URL removed"
+msgstr "यूआरएल हटाया गया"
+
+#: class.akismet-admin.php:526 class.akismet-admin.php:534
+msgid "View comment history"
+msgstr "टिप्पणी का इतिहास देखें"
+
+#: class.akismet-widget.php:69 class.akismet-widget.php:90
+msgid "Spam Blocked"
+msgstr "स्पैम अवरुद्ध"
+
+#: views/config.php:37 views/config.php:42
+msgid "Spam blocked"
+msgid_plural "Spam blocked"
+msgstr[0] "स्पैम अवरुद्ध"
+msgstr[1] ""
+
+#: class.akismet-admin.php:146
+msgid "(undo)"
+msgstr "(पूर्ववत् करें)"
+
+#: class.akismet-admin.php:249 views/config.php:188
+msgid "Account"
+msgstr "खाता"
+
+#: views/config.php:45
+msgid "Accuracy"
+msgstr "सटीकता"
+
+#: views/config.php:109
+msgid "Show approved comments"
+msgstr "अनुमोदित टिप्पणियां दिखाए"
+
+#: class.akismet-admin.php:143
+msgid "Remove this URL"
+msgstr "इस यूआरएल को निकालें"
+
+#: class.akismet-admin.php:144
+msgid "Removing..."
+msgstr "हटा जा रहा है..."
+
+#: class.akismet-admin.php:263
+msgid "Akismet FAQ"
+msgstr "अकिस्मेट अकसर पूछे जाने वाले प्रश्न"
+
+#: views/config.php:40
+msgid "All time"
+msgstr "हमेशा"
+
+#: class.akismet-admin.php:399
+msgid "Check for Spam"
+msgstr "स्पैम के लिए जाँच करें"
+
+#: class.akismet-admin.php:262
+msgid "For more information:"
+msgstr "अधिक जानकारी के लिए:"
+
+#: class.akismet-admin.php:253 views/config.php:203
+msgid "Status"
+msgstr "स्थिति"
+
+#: views/config.php:233
+msgid "Upgrade"
+msgstr "उन्नत करे"
+
+#: class.akismet-admin.php:252
+msgid "The Akismet subscription plan"
+msgstr "अकिस्मेट सदस्यता की योजना"
+
+#: class.akismet-admin.php:252 views/config.php:196
+msgid "Subscription Type"
+msgstr "सदस्यता के प्रकार"
+
+#: class.akismet-admin.php:196
+msgid "Enter an API Key"
+msgstr "एक एपीआई कुंजी दर्ज करें"
+
+#: class.akismet-admin.php:239 views/config.php:70
+msgid "API Key"
+msgstr "एपीआई कुंजी"
+
+#: views/config.php:233
+msgid "Change"
+msgstr "बदले"
+
+#: class.akismet-admin.php:174 class.akismet-admin.php:212
+#: class.akismet-admin.php:225
+msgid "Overview"
+msgstr "अवलोकन"
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "http://automattic.com/wordpress-plugins/"
+
+#: class.akismet-admin.php:81
+msgid "Comment History"
+msgstr "टिप्पणी कालक्रम"
